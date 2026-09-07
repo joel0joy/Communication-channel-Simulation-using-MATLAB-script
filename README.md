@@ -1,0 +1,2 @@
+# Communication-channel-Simulation-using-MATLAB-script
+This MATLAB project simulates an end-to-end OFDM wireless communication system under 6-tap Rayleigh fading, AWGN, and Doppler shifts. Using 16-QAM, IFFT/FFT, and Cyclic Prefixes, it implements SIMO 1x2 antenna diversity (Selection &amp; Maximal Ratio Combining) to equalize degraded signals, recover lost data, and improve the Bit Error Rate (BER).
