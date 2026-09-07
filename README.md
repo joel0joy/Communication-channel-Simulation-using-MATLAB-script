@@ -75,7 +75,7 @@ flowchart TD
 | 3 | `![Time-Domain OFDM Signal](images/03_time_domain_cp.png)` | Time-Domain OFDM Signal with Cyclic Prefix Boundaries marked |
 | 4 | `![Channel Impulse Response](images/04_channel_impulse_response.png)` | Discrete CIR for the 6-Tap Rayleigh Fading Model |
 | 5 | `![Channel Frequency Response](images/05_channel_frequency_response.png)` | Estimated CFR — visualizing frequency-selective deep fading nulls |
-| 6 | `![Zero-Forcing Equalization](images/06_zf_equalization.png)` | Received vs. equalized 16-QAM constellation after ZF |
+| 6 | `![Zero-Forcing Equalization](images/06_zf_equalization.png)` | The channel interpolation for Equalization |
 | 7 | `![BER vs SNR](images/07_ber_vs_snr.png)` | **BER vs. SNR** for Single Antenna, SC, and MRC — the key diversity-gain result |
 
 The final BER-vs-SNR curve (Image 7) is the headline result: it demonstrates **diversity gain** — MRC and SC both substantially outperform single-antenna reception, with MRC achieving the steepest (best) curve by combining both signals constructively rather than discarding the weaker one.
