@@ -67,7 +67,6 @@ flowchart TD
 
 ## Results
 
-*(Add each plot below as it's generated from the MATLAB script)*
 
 | # | Plot | What It Shows |
 |---|---|---|
